@@ -8,6 +8,7 @@
 ## Tree
 |  |
 | ------- |
+| [0100-same-tree](https://github.com/rajvignesh037-debug/Leetcode/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/rajvignesh037-debug/Leetcode/tree/master/0101-symmetric-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/rajvignesh037-debug/Leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0199-binary-tree-right-side-view](https://github.com/rajvignesh037-debug/Leetcode/tree/master/0199-binary-tree-right-side-view) |
@@ -16,6 +17,7 @@
 ## Depth-First Search
 |  |
 | ------- |
+| [0100-same-tree](https://github.com/rajvignesh037-debug/Leetcode/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/rajvignesh037-debug/Leetcode/tree/master/0101-symmetric-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/rajvignesh037-debug/Leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0199-binary-tree-right-side-view](https://github.com/rajvignesh037-debug/Leetcode/tree/master/0199-binary-tree-right-side-view) |
@@ -24,6 +26,7 @@
 ## Breadth-First Search
 |  |
 | ------- |
+| [0100-same-tree](https://github.com/rajvignesh037-debug/Leetcode/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/rajvignesh037-debug/Leetcode/tree/master/0101-symmetric-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/rajvignesh037-debug/Leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0199-binary-tree-right-side-view](https://github.com/rajvignesh037-debug/Leetcode/tree/master/0199-binary-tree-right-side-view) |
@@ -31,6 +34,7 @@
 ## Binary Tree
 |  |
 | ------- |
+| [0100-same-tree](https://github.com/rajvignesh037-debug/Leetcode/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/rajvignesh037-debug/Leetcode/tree/master/0101-symmetric-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/rajvignesh037-debug/Leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0199-binary-tree-right-side-view](https://github.com/rajvignesh037-debug/Leetcode/tree/master/0199-binary-tree-right-side-view) |
