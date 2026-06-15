@@ -106,6 +106,7 @@
 |  |
 | ------- |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/rajvignesh037-debug/Leetcode/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
+| [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/rajvignesh037-debug/Leetcode/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 ## Binary Search
 |  |
 | ------- |
@@ -122,6 +123,7 @@
 | [0733-flood-fill](https://github.com/rajvignesh037-debug/Leetcode/tree/master/0733-flood-fill) |
 | [0994-rotting-oranges](https://github.com/rajvignesh037-debug/Leetcode/tree/master/0994-rotting-oranges) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/rajvignesh037-debug/Leetcode/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
+| [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/rajvignesh037-debug/Leetcode/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -178,4 +180,8 @@
 | ------- |
 | [0733-flood-fill](https://github.com/rajvignesh037-debug/Leetcode/tree/master/0733-flood-fill) |
 | [0994-rotting-oranges](https://github.com/rajvignesh037-debug/Leetcode/tree/master/0994-rotting-oranges) |
+## Greedy
+|  |
+| ------- |
+| [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/rajvignesh037-debug/Leetcode/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 <!---LeetCode Topics End-->
