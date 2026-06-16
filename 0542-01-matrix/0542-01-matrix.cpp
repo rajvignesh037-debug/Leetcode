@@ -1,0 +1,44 @@
+class Solution {
+public:
+    vector<vector<int>> updateMatrix(vector<vector<int>>& mat) {
+        int n = mat.size();
+        int m = mat[0].size();
+
+        vector<vector<int>> ans(n, vector<int>(m, -1));
+        queue<pair<int,int>> q;
+
+        // Put all 0s into the queue
+        for(int i = 0; i < n; i++) {
+            for(int j = 0; j < m; j++) {
+                if(mat[i][j] == 0) {
+                    ans[i][j] = 0;
+                    q.push({i, j});
+                }
+            }
+        }
+
+        int drow[] = {-1, 0, 1, 0};
+        int dcol[] = {0, 1, 0, -1};
+
+        while(!q.empty()) {
+            int r = q.front().first;
+            int c = q.front().second;
+            q.pop();
+
+            for(int k = 0; k < 4; k++) {
+                int nr = r + drow[k];
+                int nc = c + dcol[k];
+
+                if(nr >= 0 && nr < n &&
+                   nc >= 0 && nc < m &&
+                   ans[nr][nc] == -1) {
+
+                    ans[nr][nc] = ans[r][c] + 1;
+                    q.push({nr, nc});
+                }
+            }
+        }
+
+        return ans;
+    }
+};
