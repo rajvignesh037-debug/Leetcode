@@ -7,19 +7,19 @@ public:
         st.erase(beginWord);
         while(!q.empty()){
             string word=q.front().first;
-            int steps=q.front().second;
+            int sequence=q.front().second;
             q.pop();
-            if(word==endWord)return steps;
+            if(word==endWord)return sequence;
             for(int i=0;i<word.size();i++){
-                char original=word[i];
+                char temp=word[i];
                 for(char ch='a';ch<='z';ch++){
                     word[i]=ch;
                     if(st.find(word)!=st.end()){
                         st.erase(word);
-                        q.push({word,steps+1});
+                        q.push({word,sequence+1});
                     }
                 }
-                word[i]=original;
+                word[i]=temp;
             }
         }
         return 0;
