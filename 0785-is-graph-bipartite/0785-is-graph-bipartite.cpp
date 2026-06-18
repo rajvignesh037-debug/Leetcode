@@ -17,7 +17,7 @@ public:
             if(vis[i]==-1){
                 if(dfs(i,0,graph,vis)==false)return false;
             }
-        }
-        return true;
+        } 
+        return dfs(0,0,graph,vis);
     }
 };
