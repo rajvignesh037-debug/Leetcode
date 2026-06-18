@@ -18,6 +18,6 @@ public:
                 if(dfs(i,0,graph,vis)==false)return false;
             }
         } 
-        return dfs(0,0,graph,vis);
+        return true;
     }
 };
