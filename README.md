@@ -139,6 +139,7 @@
 | [0994-rotting-oranges](https://github.com/rajvignesh037-debug/Leetcode/tree/master/0994-rotting-oranges) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/rajvignesh037-debug/Leetcode/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1020-number-of-enclaves](https://github.com/rajvignesh037-debug/Leetcode/tree/master/1020-number-of-enclaves) |
+| [1732-find-the-highest-altitude](https://github.com/rajvignesh037-debug/Leetcode/tree/master/1732-find-the-highest-altitude) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/rajvignesh037-debug/Leetcode/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 ## Divide and Conquer
 |  |
@@ -214,4 +215,8 @@
 |  |
 | ------- |
 | [1344-angle-between-hands-of-a-clock](https://github.com/rajvignesh037-debug/Leetcode/tree/master/1344-angle-between-hands-of-a-clock) |
+## Prefix Sum
+|  |
+| ------- |
+| [1732-find-the-highest-altitude](https://github.com/rajvignesh037-debug/Leetcode/tree/master/1732-find-the-highest-altitude) |
 <!---LeetCode Topics End-->
