@@ -7,6 +7,7 @@
 | [0006-zigzag-conversion](https://github.com/rajvignesh037-debug/Leetcode/tree/master/0006-zigzag-conversion) |
 | [0127-word-ladder](https://github.com/rajvignesh037-debug/Leetcode/tree/master/0127-word-ladder) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/rajvignesh037-debug/Leetcode/tree/master/0297-serialize-and-deserialize-binary-tree) |
+| [0539-minimum-time-difference](https://github.com/rajvignesh037-debug/Leetcode/tree/master/0539-minimum-time-difference) |
 ## Tree
 |  |
 | ------- |
@@ -122,6 +123,7 @@
 ## Sorting
 |  |
 | ------- |
+| [0539-minimum-time-difference](https://github.com/rajvignesh037-debug/Leetcode/tree/master/0539-minimum-time-difference) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/rajvignesh037-debug/Leetcode/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1833-maximum-ice-cream-bars](https://github.com/rajvignesh037-debug/Leetcode/tree/master/1833-maximum-ice-cream-bars) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/rajvignesh037-debug/Leetcode/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
@@ -141,6 +143,7 @@
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/rajvignesh037-debug/Leetcode/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0130-surrounded-regions](https://github.com/rajvignesh037-debug/Leetcode/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/rajvignesh037-debug/Leetcode/tree/master/0200-number-of-islands) |
+| [0539-minimum-time-difference](https://github.com/rajvignesh037-debug/Leetcode/tree/master/0539-minimum-time-difference) |
 | [0542-01-matrix](https://github.com/rajvignesh037-debug/Leetcode/tree/master/0542-01-matrix) |
 | [0733-flood-fill](https://github.com/rajvignesh037-debug/Leetcode/tree/master/0733-flood-fill) |
 | [0994-rotting-oranges](https://github.com/rajvignesh037-debug/Leetcode/tree/master/0994-rotting-oranges) |
@@ -226,6 +229,7 @@
 ## Math
 |  |
 | ------- |
+| [0539-minimum-time-difference](https://github.com/rajvignesh037-debug/Leetcode/tree/master/0539-minimum-time-difference) |
 | [1344-angle-between-hands-of-a-clock](https://github.com/rajvignesh037-debug/Leetcode/tree/master/1344-angle-between-hands-of-a-clock) |
 ## Prefix Sum
 |  |
