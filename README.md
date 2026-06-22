@@ -8,6 +8,7 @@
 | [0127-word-ladder](https://github.com/rajvignesh037-debug/Leetcode/tree/master/0127-word-ladder) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/rajvignesh037-debug/Leetcode/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0539-minimum-time-difference](https://github.com/rajvignesh037-debug/Leetcode/tree/master/0539-minimum-time-difference) |
+| [1189-maximum-number-of-balloons](https://github.com/rajvignesh037-debug/Leetcode/tree/master/1189-maximum-number-of-balloons) |
 ## Tree
 |  |
 | ------- |
@@ -120,6 +121,7 @@
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/rajvignesh037-debug/Leetcode/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/rajvignesh037-debug/Leetcode/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/rajvignesh037-debug/Leetcode/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
+| [1189-maximum-number-of-balloons](https://github.com/rajvignesh037-debug/Leetcode/tree/master/1189-maximum-number-of-balloons) |
 | [2784-check-if-array-is-good](https://github.com/rajvignesh037-debug/Leetcode/tree/master/2784-check-if-array-is-good) |
 ## Sorting
 |  |
@@ -246,5 +248,6 @@
 ## Counting Sort
 |  |
 | ------- |
+| [1189-maximum-number-of-balloons](https://github.com/rajvignesh037-debug/Leetcode/tree/master/1189-maximum-number-of-balloons) |
 | [1833-maximum-ice-cream-bars](https://github.com/rajvignesh037-debug/Leetcode/tree/master/1833-maximum-ice-cream-bars) |
 <!---LeetCode Topics End-->
