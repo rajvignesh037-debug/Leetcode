@@ -8,9 +8,8 @@ public:
 
         if(dp[i][j] != -1) return dp[i][j];
 
-        return dp[i][j] =
-            count(m, n, i + 1, j) +
-            count(m, n, i, j + 1);
+        dp[i][j] =count(m, n, i + 1, j)+count(m, n, i, j + 1);
+        return dp[i][j];
     }
 
     int uniquePaths(int m, int n) {
