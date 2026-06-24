@@ -240,6 +240,7 @@
 | ------- |
 | [0002-add-two-numbers](https://github.com/rajvignesh037-debug/Leetcode/tree/master/0002-add-two-numbers) |
 | [0062-unique-paths](https://github.com/rajvignesh037-debug/Leetcode/tree/master/0062-unique-paths) |
+| [0172-factorial-trailing-zeroes](https://github.com/rajvignesh037-debug/Leetcode/tree/master/0172-factorial-trailing-zeroes) |
 | [0539-minimum-time-difference](https://github.com/rajvignesh037-debug/Leetcode/tree/master/0539-minimum-time-difference) |
 | [1344-angle-between-hands-of-a-clock](https://github.com/rajvignesh037-debug/Leetcode/tree/master/1344-angle-between-hands-of-a-clock) |
 ## Prefix Sum
