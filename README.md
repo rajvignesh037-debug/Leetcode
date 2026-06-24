@@ -202,6 +202,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0062-unique-paths](https://github.com/rajvignesh037-debug/Leetcode/tree/master/0062-unique-paths) |
 | [0542-01-matrix](https://github.com/rajvignesh037-debug/Leetcode/tree/master/0542-01-matrix) |
 | [1373-maximum-sum-bst-in-binary-tree](https://github.com/rajvignesh037-debug/Leetcode/tree/master/1373-maximum-sum-bst-in-binary-tree) |
 ## Union-Find
@@ -238,6 +239,7 @@
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/rajvignesh037-debug/Leetcode/tree/master/0002-add-two-numbers) |
+| [0062-unique-paths](https://github.com/rajvignesh037-debug/Leetcode/tree/master/0062-unique-paths) |
 | [0539-minimum-time-difference](https://github.com/rajvignesh037-debug/Leetcode/tree/master/0539-minimum-time-difference) |
 | [1344-angle-between-hands-of-a-clock](https://github.com/rajvignesh037-debug/Leetcode/tree/master/1344-angle-between-hands-of-a-clock) |
 ## Prefix Sum
@@ -258,4 +260,8 @@
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/rajvignesh037-debug/Leetcode/tree/master/0002-add-two-numbers) |
+## Combinatorics
+|  |
+| ------- |
+| [0062-unique-paths](https://github.com/rajvignesh037-debug/Leetcode/tree/master/0062-unique-paths) |
 <!---LeetCode Topics End-->
