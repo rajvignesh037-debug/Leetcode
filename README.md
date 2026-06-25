@@ -123,6 +123,7 @@
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/rajvignesh037-debug/Leetcode/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1189-maximum-number-of-balloons](https://github.com/rajvignesh037-debug/Leetcode/tree/master/1189-maximum-number-of-balloons) |
 | [2784-check-if-array-is-good](https://github.com/rajvignesh037-debug/Leetcode/tree/master/2784-check-if-array-is-good) |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/rajvignesh037-debug/Leetcode/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Sorting
 |  |
 | ------- |
@@ -157,11 +158,13 @@
 | [1833-maximum-ice-cream-bars](https://github.com/rajvignesh037-debug/Leetcode/tree/master/1833-maximum-ice-cream-bars) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/rajvignesh037-debug/Leetcode/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2784-check-if-array-is-good](https://github.com/rajvignesh037-debug/Leetcode/tree/master/2784-check-if-array-is-good) |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/rajvignesh037-debug/Leetcode/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Divide and Conquer
 |  |
 | ------- |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/rajvignesh037-debug/Leetcode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/rajvignesh037-debug/Leetcode/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/rajvignesh037-debug/Leetcode/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Linked List
 |  |
 | ------- |
@@ -248,6 +251,7 @@
 |  |
 | ------- |
 | [1732-find-the-highest-altitude](https://github.com/rajvignesh037-debug/Leetcode/tree/master/1732-find-the-highest-altitude) |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/rajvignesh037-debug/Leetcode/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Topological Sort
 |  |
 | ------- |
@@ -258,6 +262,7 @@
 | ------- |
 | [1189-maximum-number-of-balloons](https://github.com/rajvignesh037-debug/Leetcode/tree/master/1189-maximum-number-of-balloons) |
 | [1833-maximum-ice-cream-bars](https://github.com/rajvignesh037-debug/Leetcode/tree/master/1833-maximum-ice-cream-bars) |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/rajvignesh037-debug/Leetcode/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Recursion
 |  |
 | ------- |
@@ -267,4 +272,12 @@
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/rajvignesh037-debug/Leetcode/tree/master/0062-unique-paths) |
+## Segment Tree
+|  |
+| ------- |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/rajvignesh037-debug/Leetcode/tree/master/3737-count-subarrays-with-majority-element-i) |
+## Merge Sort
+|  |
+| ------- |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/rajvignesh037-debug/Leetcode/tree/master/3737-count-subarrays-with-majority-element-i) |
 <!---LeetCode Topics End-->
