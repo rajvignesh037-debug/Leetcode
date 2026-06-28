@@ -218,6 +218,7 @@
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/rajvignesh037-debug/Leetcode/tree/master/0062-unique-paths) |
+| [0070-climbing-stairs](https://github.com/rajvignesh037-debug/Leetcode/tree/master/0070-climbing-stairs) |
 | [0542-01-matrix](https://github.com/rajvignesh037-debug/Leetcode/tree/master/0542-01-matrix) |
 | [1373-maximum-sum-bst-in-binary-tree](https://github.com/rajvignesh037-debug/Leetcode/tree/master/1373-maximum-sum-bst-in-binary-tree) |
 ## Union-Find
@@ -255,6 +256,7 @@
 | ------- |
 | [0002-add-two-numbers](https://github.com/rajvignesh037-debug/Leetcode/tree/master/0002-add-two-numbers) |
 | [0062-unique-paths](https://github.com/rajvignesh037-debug/Leetcode/tree/master/0062-unique-paths) |
+| [0070-climbing-stairs](https://github.com/rajvignesh037-debug/Leetcode/tree/master/0070-climbing-stairs) |
 | [0172-factorial-trailing-zeroes](https://github.com/rajvignesh037-debug/Leetcode/tree/master/0172-factorial-trailing-zeroes) |
 | [0326-power-of-three](https://github.com/rajvignesh037-debug/Leetcode/tree/master/0326-power-of-three) |
 | [0539-minimum-time-difference](https://github.com/rajvignesh037-debug/Leetcode/tree/master/0539-minimum-time-difference) |
@@ -297,4 +299,8 @@
 |  |
 | ------- |
 | [0219-contains-duplicate-ii](https://github.com/rajvignesh037-debug/Leetcode/tree/master/0219-contains-duplicate-ii) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/rajvignesh037-debug/Leetcode/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
