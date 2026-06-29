@@ -9,6 +9,7 @@
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/rajvignesh037-debug/Leetcode/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0539-minimum-time-difference](https://github.com/rajvignesh037-debug/Leetcode/tree/master/0539-minimum-time-difference) |
 | [1189-maximum-number-of-balloons](https://github.com/rajvignesh037-debug/Leetcode/tree/master/1189-maximum-number-of-balloons) |
+| [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/rajvignesh037-debug/Leetcode/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 ## Tree
 |  |
 | ------- |
@@ -169,6 +170,7 @@
 | [1732-find-the-highest-altitude](https://github.com/rajvignesh037-debug/Leetcode/tree/master/1732-find-the-highest-altitude) |
 | [1833-maximum-ice-cream-bars](https://github.com/rajvignesh037-debug/Leetcode/tree/master/1833-maximum-ice-cream-bars) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/rajvignesh037-debug/Leetcode/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
+| [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/rajvignesh037-debug/Leetcode/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/rajvignesh037-debug/Leetcode/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2784-check-if-array-is-good](https://github.com/rajvignesh037-debug/Leetcode/tree/master/2784-check-if-array-is-good) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/rajvignesh037-debug/Leetcode/tree/master/3737-count-subarrays-with-majority-element-i) |
