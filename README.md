@@ -280,6 +280,7 @@
 | [0070-climbing-stairs](https://github.com/rajvignesh037-debug/Leetcode/tree/master/0070-climbing-stairs) |
 | [0172-factorial-trailing-zeroes](https://github.com/rajvignesh037-debug/Leetcode/tree/master/0172-factorial-trailing-zeroes) |
 | [0202-happy-number](https://github.com/rajvignesh037-debug/Leetcode/tree/master/0202-happy-number) |
+| [0223-rectangle-area](https://github.com/rajvignesh037-debug/Leetcode/tree/master/0223-rectangle-area) |
 | [0326-power-of-three](https://github.com/rajvignesh037-debug/Leetcode/tree/master/0326-power-of-three) |
 | [0539-minimum-time-difference](https://github.com/rajvignesh037-debug/Leetcode/tree/master/0539-minimum-time-difference) |
 | [1344-angle-between-hands-of-a-clock](https://github.com/rajvignesh037-debug/Leetcode/tree/master/1344-angle-between-hands-of-a-clock) |
@@ -326,4 +327,8 @@
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/rajvignesh037-debug/Leetcode/tree/master/0070-climbing-stairs) |
+## Geometry
+|  |
+| ------- |
+| [0223-rectangle-area](https://github.com/rajvignesh037-debug/Leetcode/tree/master/0223-rectangle-area) |
 <!---LeetCode Topics End-->
