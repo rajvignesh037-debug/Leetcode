@@ -9,6 +9,7 @@
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/rajvignesh037-debug/Leetcode/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0539-minimum-time-difference](https://github.com/rajvignesh037-debug/Leetcode/tree/master/0539-minimum-time-difference) |
 | [1189-maximum-number-of-balloons](https://github.com/rajvignesh037-debug/Leetcode/tree/master/1189-maximum-number-of-balloons) |
+| [1358-number-of-substrings-containing-all-three-characters](https://github.com/rajvignesh037-debug/Leetcode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/rajvignesh037-debug/Leetcode/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 ## Tree
 |  |
@@ -138,6 +139,7 @@
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/rajvignesh037-debug/Leetcode/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/rajvignesh037-debug/Leetcode/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1189-maximum-number-of-balloons](https://github.com/rajvignesh037-debug/Leetcode/tree/master/1189-maximum-number-of-balloons) |
+| [1358-number-of-substrings-containing-all-three-characters](https://github.com/rajvignesh037-debug/Leetcode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [2784-check-if-array-is-good](https://github.com/rajvignesh037-debug/Leetcode/tree/master/2784-check-if-array-is-good) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/rajvignesh037-debug/Leetcode/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Sorting
@@ -312,6 +314,7 @@
 |  |
 | ------- |
 | [0219-contains-duplicate-ii](https://github.com/rajvignesh037-debug/Leetcode/tree/master/0219-contains-duplicate-ii) |
+| [1358-number-of-substrings-containing-all-three-characters](https://github.com/rajvignesh037-debug/Leetcode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 ## Memoization
 |  |
 | ------- |
