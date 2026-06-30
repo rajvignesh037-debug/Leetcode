@@ -136,6 +136,7 @@
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/rajvignesh037-debug/Leetcode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/rajvignesh037-debug/Leetcode/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0127-word-ladder](https://github.com/rajvignesh037-debug/Leetcode/tree/master/0127-word-ladder) |
+| [0202-happy-number](https://github.com/rajvignesh037-debug/Leetcode/tree/master/0202-happy-number) |
 | [0217-contains-duplicate](https://github.com/rajvignesh037-debug/Leetcode/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/rajvignesh037-debug/Leetcode/tree/master/0219-contains-duplicate-ii) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/rajvignesh037-debug/Leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
@@ -231,6 +232,7 @@
 |  |
 | ------- |
 | [0061-rotate-list](https://github.com/rajvignesh037-debug/Leetcode/tree/master/0061-rotate-list) |
+| [0202-happy-number](https://github.com/rajvignesh037-debug/Leetcode/tree/master/0202-happy-number) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/rajvignesh037-debug/Leetcode/tree/master/0653-two-sum-iv-input-is-a-bst) |
 ## Dynamic Programming
 |  |
@@ -277,6 +279,7 @@
 | [0062-unique-paths](https://github.com/rajvignesh037-debug/Leetcode/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/rajvignesh037-debug/Leetcode/tree/master/0070-climbing-stairs) |
 | [0172-factorial-trailing-zeroes](https://github.com/rajvignesh037-debug/Leetcode/tree/master/0172-factorial-trailing-zeroes) |
+| [0202-happy-number](https://github.com/rajvignesh037-debug/Leetcode/tree/master/0202-happy-number) |
 | [0326-power-of-three](https://github.com/rajvignesh037-debug/Leetcode/tree/master/0326-power-of-three) |
 | [0539-minimum-time-difference](https://github.com/rajvignesh037-debug/Leetcode/tree/master/0539-minimum-time-difference) |
 | [1344-angle-between-hands-of-a-clock](https://github.com/rajvignesh037-debug/Leetcode/tree/master/1344-angle-between-hands-of-a-clock) |
