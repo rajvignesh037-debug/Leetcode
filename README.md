@@ -40,6 +40,7 @@
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/rajvignesh037-debug/Leetcode/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/rajvignesh037-debug/Leetcode/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1373-maximum-sum-bst-in-binary-tree](https://github.com/rajvignesh037-debug/Leetcode/tree/master/1373-maximum-sum-bst-in-binary-tree) |
+| [1379-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree](https://github.com/rajvignesh037-debug/Leetcode/tree/master/1379-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -71,6 +72,7 @@
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/rajvignesh037-debug/Leetcode/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1020-number-of-enclaves](https://github.com/rajvignesh037-debug/Leetcode/tree/master/1020-number-of-enclaves) |
 | [1373-maximum-sum-bst-in-binary-tree](https://github.com/rajvignesh037-debug/Leetcode/tree/master/1373-maximum-sum-bst-in-binary-tree) |
+| [1379-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree](https://github.com/rajvignesh037-debug/Leetcode/tree/master/1379-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -97,6 +99,7 @@
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/rajvignesh037-debug/Leetcode/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [0994-rotting-oranges](https://github.com/rajvignesh037-debug/Leetcode/tree/master/0994-rotting-oranges) |
 | [1020-number-of-enclaves](https://github.com/rajvignesh037-debug/Leetcode/tree/master/1020-number-of-enclaves) |
+| [1379-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree](https://github.com/rajvignesh037-debug/Leetcode/tree/master/1379-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree) |
 ## Binary Tree
 |  |
 | ------- |
@@ -126,6 +129,7 @@
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/rajvignesh037-debug/Leetcode/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/rajvignesh037-debug/Leetcode/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1373-maximum-sum-bst-in-binary-tree](https://github.com/rajvignesh037-debug/Leetcode/tree/master/1373-maximum-sum-bst-in-binary-tree) |
+| [1379-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree](https://github.com/rajvignesh037-debug/Leetcode/tree/master/1379-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree) |
 ## Hash Table
 |  |
 | ------- |
