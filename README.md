@@ -154,6 +154,7 @@
 | [0217-contains-duplicate](https://github.com/rajvignesh037-debug/Leetcode/tree/master/0217-contains-duplicate) |
 | [0539-minimum-time-difference](https://github.com/rajvignesh037-debug/Leetcode/tree/master/0539-minimum-time-difference) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/rajvignesh037-debug/Leetcode/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/rajvignesh037-debug/Leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1833-maximum-ice-cream-bars](https://github.com/rajvignesh037-debug/Leetcode/tree/master/1833-maximum-ice-cream-bars) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/rajvignesh037-debug/Leetcode/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/rajvignesh037-debug/Leetcode/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
@@ -188,6 +189,7 @@
 | [0994-rotting-oranges](https://github.com/rajvignesh037-debug/Leetcode/tree/master/0994-rotting-oranges) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/rajvignesh037-debug/Leetcode/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1020-number-of-enclaves](https://github.com/rajvignesh037-debug/Leetcode/tree/master/1020-number-of-enclaves) |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/rajvignesh037-debug/Leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1732-find-the-highest-altitude](https://github.com/rajvignesh037-debug/Leetcode/tree/master/1732-find-the-highest-altitude) |
 | [1833-maximum-ice-cream-bars](https://github.com/rajvignesh037-debug/Leetcode/tree/master/1833-maximum-ice-cream-bars) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/rajvignesh037-debug/Leetcode/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
@@ -351,4 +353,8 @@
 | ------- |
 | [0059-spiral-matrix-ii](https://github.com/rajvignesh037-debug/Leetcode/tree/master/0059-spiral-matrix-ii) |
 | [0844-backspace-string-compare](https://github.com/rajvignesh037-debug/Leetcode/tree/master/0844-backspace-string-compare) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/rajvignesh037-debug/Leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 <!---LeetCode Topics End-->
