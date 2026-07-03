@@ -12,6 +12,7 @@
 | [1189-maximum-number-of-balloons](https://github.com/rajvignesh037-debug/Leetcode/tree/master/1189-maximum-number-of-balloons) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/rajvignesh037-debug/Leetcode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/rajvignesh037-debug/Leetcode/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
+| [3174-clear-digits](https://github.com/rajvignesh037-debug/Leetcode/tree/master/3174-clear-digits) |
 ## Tree
 |  |
 | ------- |
@@ -216,6 +217,7 @@
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/rajvignesh037-debug/Leetcode/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0844-backspace-string-compare](https://github.com/rajvignesh037-debug/Leetcode/tree/master/0844-backspace-string-compare) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/rajvignesh037-debug/Leetcode/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
+| [3174-clear-digits](https://github.com/rajvignesh037-debug/Leetcode/tree/master/3174-clear-digits) |
 ## Design
 |  |
 | ------- |
@@ -353,6 +355,7 @@
 | ------- |
 | [0059-spiral-matrix-ii](https://github.com/rajvignesh037-debug/Leetcode/tree/master/0059-spiral-matrix-ii) |
 | [0844-backspace-string-compare](https://github.com/rajvignesh037-debug/Leetcode/tree/master/0844-backspace-string-compare) |
+| [3174-clear-digits](https://github.com/rajvignesh037-debug/Leetcode/tree/master/3174-clear-digits) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
