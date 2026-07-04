@@ -164,6 +164,7 @@
 |  |
 | ------- |
 | [0222-count-complete-tree-nodes](https://github.com/rajvignesh037-debug/Leetcode/tree/master/0222-count-complete-tree-nodes) |
+| [0367-valid-perfect-square](https://github.com/rajvignesh037-debug/Leetcode/tree/master/0367-valid-perfect-square) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -302,6 +303,7 @@
 | [0202-happy-number](https://github.com/rajvignesh037-debug/Leetcode/tree/master/0202-happy-number) |
 | [0223-rectangle-area](https://github.com/rajvignesh037-debug/Leetcode/tree/master/0223-rectangle-area) |
 | [0326-power-of-three](https://github.com/rajvignesh037-debug/Leetcode/tree/master/0326-power-of-three) |
+| [0367-valid-perfect-square](https://github.com/rajvignesh037-debug/Leetcode/tree/master/0367-valid-perfect-square) |
 | [0539-minimum-time-difference](https://github.com/rajvignesh037-debug/Leetcode/tree/master/0539-minimum-time-difference) |
 | [1344-angle-between-hands-of-a-clock](https://github.com/rajvignesh037-debug/Leetcode/tree/master/1344-angle-between-hands-of-a-clock) |
 ## Prefix Sum
