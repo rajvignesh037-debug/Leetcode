@@ -1,43 +1,31 @@
 class Solution {
 public:
-    bool dfs(int node,
-             vector<vector<int>>& adj,
-             vector<int>& state) {
-
-        state[node] = 1;
-
-        for (auto neigh : adj[node]) {
-
-            if (state[neigh] == 1)
+    bool dfs(int node,vector<vector<int>>& adj,vector<int> &vis,vector<int> &pathvis) {
+           vis[node]=1;
+           pathvis[node]=1;
+           for(auto &adjnode:adj[node]){
+            if(!vis[adjnode]){
+                if(dfs(adjnode,adj,vis,pathvis)==true)return true;
+            }
+            else if(pathvis[adjnode]){
                 return true;
-
-            if (state[neigh] == 0 &&
-                dfs(neigh, adj, state))
-                return true;
-        }
-
-        state[node] = 2;
-        return false;
+            }
+           }
+           pathvis[node]=0;
+           return false;
     }
-
-    bool canFinish(int numCourses,
-                   vector<vector<int>>& prerequisites) {
-
+    bool canFinish(int numCourses,vector<vector<int>>& prerequisites) {
         vector<vector<int>> adj(numCourses);
-
-        for (auto &p : prerequisites)
+        for (auto &p : prerequisites){
             adj[p[1]].push_back(p[0]);
-
-        vector<int> state(numCourses, 0);
-
-        for (int i = 0; i < numCourses; i++) {
-
-            if (state[i] == 0) {
-                if (dfs(i, adj, state))
-                    return false;
+        }
+        vector<int> vis(numCourses, 0);
+        vector<int> pathvis(numCourses, 0);
+        for(int i=0;i<numCourses;i++){
+            if(!vis[i]){
+                if(dfs(i,adj,vis,pathvis)==true)return false;
             }
         }
-
         return true;
     }
 };
