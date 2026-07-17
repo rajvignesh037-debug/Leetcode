@@ -175,6 +175,7 @@
 ## Array
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/rajvignesh037-debug/Leetcode/tree/master/0053-maximum-subarray) |
 | [0059-spiral-matrix-ii](https://github.com/rajvignesh037-debug/Leetcode/tree/master/0059-spiral-matrix-ii) |
 | [0063-unique-paths-ii](https://github.com/rajvignesh037-debug/Leetcode/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/rajvignesh037-debug/Leetcode/tree/master/0064-minimum-path-sum) |
@@ -208,6 +209,7 @@
 ## Divide and Conquer
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/rajvignesh037-debug/Leetcode/tree/master/0053-maximum-subarray) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/rajvignesh037-debug/Leetcode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/rajvignesh037-debug/Leetcode/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/rajvignesh037-debug/Leetcode/tree/master/3737-count-subarrays-with-majority-element-i) |
@@ -258,6 +260,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/rajvignesh037-debug/Leetcode/tree/master/0053-maximum-subarray) |
 | [0062-unique-paths](https://github.com/rajvignesh037-debug/Leetcode/tree/master/0062-unique-paths) |
 | [0063-unique-paths-ii](https://github.com/rajvignesh037-debug/Leetcode/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/rajvignesh037-debug/Leetcode/tree/master/0064-minimum-path-sum) |
