@@ -165,11 +165,13 @@
 |  |
 | ------- |
 | [0222-count-complete-tree-nodes](https://github.com/rajvignesh037-debug/Leetcode/tree/master/0222-count-complete-tree-nodes) |
+| [0287-find-the-duplicate-number](https://github.com/rajvignesh037-debug/Leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0367-valid-perfect-square](https://github.com/rajvignesh037-debug/Leetcode/tree/master/0367-valid-perfect-square) |
 ## Bit Manipulation
 |  |
 | ------- |
 | [0222-count-complete-tree-nodes](https://github.com/rajvignesh037-debug/Leetcode/tree/master/0222-count-complete-tree-nodes) |
+| [0287-find-the-duplicate-number](https://github.com/rajvignesh037-debug/Leetcode/tree/master/0287-find-the-duplicate-number) |
 ## Array
 |  |
 | ------- |
@@ -184,6 +186,7 @@
 | [0200-number-of-islands](https://github.com/rajvignesh037-debug/Leetcode/tree/master/0200-number-of-islands) |
 | [0217-contains-duplicate](https://github.com/rajvignesh037-debug/Leetcode/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/rajvignesh037-debug/Leetcode/tree/master/0219-contains-duplicate-ii) |
+| [0287-find-the-duplicate-number](https://github.com/rajvignesh037-debug/Leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0419-battleships-in-a-board](https://github.com/rajvignesh037-debug/Leetcode/tree/master/0419-battleships-in-a-board) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/rajvignesh037-debug/Leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0539-minimum-time-difference](https://github.com/rajvignesh037-debug/Leetcode/tree/master/0539-minimum-time-difference) |
@@ -248,6 +251,7 @@
 | ------- |
 | [0061-rotate-list](https://github.com/rajvignesh037-debug/Leetcode/tree/master/0061-rotate-list) |
 | [0202-happy-number](https://github.com/rajvignesh037-debug/Leetcode/tree/master/0202-happy-number) |
+| [0287-find-the-duplicate-number](https://github.com/rajvignesh037-debug/Leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/rajvignesh037-debug/Leetcode/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0844-backspace-string-compare](https://github.com/rajvignesh037-debug/Leetcode/tree/master/0844-backspace-string-compare) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/rajvignesh037-debug/Leetcode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
