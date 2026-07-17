@@ -160,6 +160,7 @@
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/rajvignesh037-debug/Leetcode/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/rajvignesh037-debug/Leetcode/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2784-check-if-array-is-good](https://github.com/rajvignesh037-debug/Leetcode/tree/master/2784-check-if-array-is-good) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/rajvignesh037-debug/Leetcode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Binary Search
 |  |
 | ------- |
@@ -200,6 +201,7 @@
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/rajvignesh037-debug/Leetcode/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2784-check-if-array-is-good](https://github.com/rajvignesh037-debug/Leetcode/tree/master/2784-check-if-array-is-good) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/rajvignesh037-debug/Leetcode/tree/master/3737-count-subarrays-with-majority-element-i) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/rajvignesh037-debug/Leetcode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -248,6 +250,7 @@
 | [0202-happy-number](https://github.com/rajvignesh037-debug/Leetcode/tree/master/0202-happy-number) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/rajvignesh037-debug/Leetcode/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0844-backspace-string-compare](https://github.com/rajvignesh037-debug/Leetcode/tree/master/0844-backspace-string-compare) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/rajvignesh037-debug/Leetcode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -307,6 +310,7 @@
 | [0539-minimum-time-difference](https://github.com/rajvignesh037-debug/Leetcode/tree/master/0539-minimum-time-difference) |
 | [1344-angle-between-hands-of-a-clock](https://github.com/rajvignesh037-debug/Leetcode/tree/master/1344-angle-between-hands-of-a-clock) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/rajvignesh037-debug/Leetcode/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/rajvignesh037-debug/Leetcode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -360,8 +364,13 @@
 | [0059-spiral-matrix-ii](https://github.com/rajvignesh037-debug/Leetcode/tree/master/0059-spiral-matrix-ii) |
 | [0844-backspace-string-compare](https://github.com/rajvignesh037-debug/Leetcode/tree/master/0844-backspace-string-compare) |
 | [3174-clear-digits](https://github.com/rajvignesh037-debug/Leetcode/tree/master/3174-clear-digits) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/rajvignesh037-debug/Leetcode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/rajvignesh037-debug/Leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+## Number Theory
+|  |
+| ------- |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/rajvignesh037-debug/Leetcode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 <!---LeetCode Topics End-->
