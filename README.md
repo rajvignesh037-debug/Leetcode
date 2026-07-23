@@ -187,6 +187,7 @@
 | [0200-number-of-islands](https://github.com/rajvignesh037-debug/Leetcode/tree/master/0200-number-of-islands) |
 | [0217-contains-duplicate](https://github.com/rajvignesh037-debug/Leetcode/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/rajvignesh037-debug/Leetcode/tree/master/0219-contains-duplicate-ii) |
+| [0283-move-zeroes](https://github.com/rajvignesh037-debug/Leetcode/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/rajvignesh037-debug/Leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0419-battleships-in-a-board](https://github.com/rajvignesh037-debug/Leetcode/tree/master/0419-battleships-in-a-board) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/rajvignesh037-debug/Leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
@@ -253,6 +254,7 @@
 | ------- |
 | [0061-rotate-list](https://github.com/rajvignesh037-debug/Leetcode/tree/master/0061-rotate-list) |
 | [0202-happy-number](https://github.com/rajvignesh037-debug/Leetcode/tree/master/0202-happy-number) |
+| [0283-move-zeroes](https://github.com/rajvignesh037-debug/Leetcode/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/rajvignesh037-debug/Leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/rajvignesh037-debug/Leetcode/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0844-backspace-string-compare](https://github.com/rajvignesh037-debug/Leetcode/tree/master/0844-backspace-string-compare) |
