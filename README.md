@@ -135,6 +135,7 @@
 ## Hash Table
 |  |
 | ------- |
+| [0036-valid-sudoku](https://github.com/rajvignesh037-debug/Leetcode/tree/master/0036-valid-sudoku) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/rajvignesh037-debug/Leetcode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/rajvignesh037-debug/Leetcode/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0127-word-ladder](https://github.com/rajvignesh037-debug/Leetcode/tree/master/0127-word-ladder) |
@@ -175,6 +176,7 @@
 ## Array
 |  |
 | ------- |
+| [0036-valid-sudoku](https://github.com/rajvignesh037-debug/Leetcode/tree/master/0036-valid-sudoku) |
 | [0053-maximum-subarray](https://github.com/rajvignesh037-debug/Leetcode/tree/master/0053-maximum-subarray) |
 | [0059-spiral-matrix-ii](https://github.com/rajvignesh037-debug/Leetcode/tree/master/0059-spiral-matrix-ii) |
 | [0063-unique-paths-ii](https://github.com/rajvignesh037-debug/Leetcode/tree/master/0063-unique-paths-ii) |
@@ -289,6 +291,7 @@
 ## Matrix
 |  |
 | ------- |
+| [0036-valid-sudoku](https://github.com/rajvignesh037-debug/Leetcode/tree/master/0036-valid-sudoku) |
 | [0059-spiral-matrix-ii](https://github.com/rajvignesh037-debug/Leetcode/tree/master/0059-spiral-matrix-ii) |
 | [0063-unique-paths-ii](https://github.com/rajvignesh037-debug/Leetcode/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/rajvignesh037-debug/Leetcode/tree/master/0064-minimum-path-sum) |
