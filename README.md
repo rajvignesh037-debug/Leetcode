@@ -196,6 +196,7 @@
 | [0539-minimum-time-difference](https://github.com/rajvignesh037-debug/Leetcode/tree/master/0539-minimum-time-difference) |
 | [0542-01-matrix](https://github.com/rajvignesh037-debug/Leetcode/tree/master/0542-01-matrix) |
 | [0733-flood-fill](https://github.com/rajvignesh037-debug/Leetcode/tree/master/0733-flood-fill) |
+| [0877-stone-game](https://github.com/rajvignesh037-debug/Leetcode/tree/master/0877-stone-game) |
 | [0994-rotting-oranges](https://github.com/rajvignesh037-debug/Leetcode/tree/master/0994-rotting-oranges) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/rajvignesh037-debug/Leetcode/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1020-number-of-enclaves](https://github.com/rajvignesh037-debug/Leetcode/tree/master/1020-number-of-enclaves) |
@@ -272,6 +273,7 @@
 | [0120-triangle](https://github.com/rajvignesh037-debug/Leetcode/tree/master/0120-triangle) |
 | [0198-house-robber](https://github.com/rajvignesh037-debug/Leetcode/tree/master/0198-house-robber) |
 | [0542-01-matrix](https://github.com/rajvignesh037-debug/Leetcode/tree/master/0542-01-matrix) |
+| [0877-stone-game](https://github.com/rajvignesh037-debug/Leetcode/tree/master/0877-stone-game) |
 | [1373-maximum-sum-bst-in-binary-tree](https://github.com/rajvignesh037-debug/Leetcode/tree/master/1373-maximum-sum-bst-in-binary-tree) |
 ## Union-Find
 |  |
@@ -320,6 +322,7 @@
 | [0326-power-of-three](https://github.com/rajvignesh037-debug/Leetcode/tree/master/0326-power-of-three) |
 | [0367-valid-perfect-square](https://github.com/rajvignesh037-debug/Leetcode/tree/master/0367-valid-perfect-square) |
 | [0539-minimum-time-difference](https://github.com/rajvignesh037-debug/Leetcode/tree/master/0539-minimum-time-difference) |
+| [0877-stone-game](https://github.com/rajvignesh037-debug/Leetcode/tree/master/0877-stone-game) |
 | [1344-angle-between-hands-of-a-clock](https://github.com/rajvignesh037-debug/Leetcode/tree/master/1344-angle-between-hands-of-a-clock) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/rajvignesh037-debug/Leetcode/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/rajvignesh037-debug/Leetcode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
@@ -385,4 +388,16 @@
 |  |
 | ------- |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/rajvignesh037-debug/Leetcode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
+## Minimax
+|  |
+| ------- |
+| [0877-stone-game](https://github.com/rajvignesh037-debug/Leetcode/tree/master/0877-stone-game) |
+## Game Theory
+|  |
+| ------- |
+| [0877-stone-game](https://github.com/rajvignesh037-debug/Leetcode/tree/master/0877-stone-game) |
+## Zero-Sum Game
+|  |
+| ------- |
+| [0877-stone-game](https://github.com/rajvignesh037-debug/Leetcode/tree/master/0877-stone-game) |
 <!---LeetCode Topics End-->
