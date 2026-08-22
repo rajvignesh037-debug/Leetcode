@@ -201,6 +201,7 @@
 | [0994-rotting-oranges](https://github.com/rajvignesh037-debug/Leetcode/tree/master/0994-rotting-oranges) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/rajvignesh037-debug/Leetcode/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1020-number-of-enclaves](https://github.com/rajvignesh037-debug/Leetcode/tree/master/1020-number-of-enclaves) |
+| [1277-count-square-submatrices-with-all-ones](https://github.com/rajvignesh037-debug/Leetcode/tree/master/1277-count-square-submatrices-with-all-ones) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/rajvignesh037-debug/Leetcode/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/rajvignesh037-debug/Leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1732-find-the-highest-altitude](https://github.com/rajvignesh037-debug/Leetcode/tree/master/1732-find-the-highest-altitude) |
@@ -275,6 +276,7 @@
 | [0198-house-robber](https://github.com/rajvignesh037-debug/Leetcode/tree/master/0198-house-robber) |
 | [0542-01-matrix](https://github.com/rajvignesh037-debug/Leetcode/tree/master/0542-01-matrix) |
 | [0877-stone-game](https://github.com/rajvignesh037-debug/Leetcode/tree/master/0877-stone-game) |
+| [1277-count-square-submatrices-with-all-ones](https://github.com/rajvignesh037-debug/Leetcode/tree/master/1277-count-square-submatrices-with-all-ones) |
 | [1373-maximum-sum-bst-in-binary-tree](https://github.com/rajvignesh037-debug/Leetcode/tree/master/1373-maximum-sum-bst-in-binary-tree) |
 ## Union-Find
 |  |
@@ -305,6 +307,7 @@
 | [0733-flood-fill](https://github.com/rajvignesh037-debug/Leetcode/tree/master/0733-flood-fill) |
 | [0994-rotting-oranges](https://github.com/rajvignesh037-debug/Leetcode/tree/master/0994-rotting-oranges) |
 | [1020-number-of-enclaves](https://github.com/rajvignesh037-debug/Leetcode/tree/master/1020-number-of-enclaves) |
+| [1277-count-square-submatrices-with-all-ones](https://github.com/rajvignesh037-debug/Leetcode/tree/master/1277-count-square-submatrices-with-all-ones) |
 ## Greedy
 |  |
 | ------- |
