@@ -11,6 +11,7 @@
 | [0844-backspace-string-compare](https://github.com/rajvignesh037-debug/Leetcode/tree/master/0844-backspace-string-compare) |
 | [1189-maximum-number-of-balloons](https://github.com/rajvignesh037-debug/Leetcode/tree/master/1189-maximum-number-of-balloons) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/rajvignesh037-debug/Leetcode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
+| [1927-sum-game](https://github.com/rajvignesh037-debug/Leetcode/tree/master/1927-sum-game) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/rajvignesh037-debug/Leetcode/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [3174-clear-digits](https://github.com/rajvignesh037-debug/Leetcode/tree/master/3174-clear-digits) |
 ## Tree
@@ -313,6 +314,7 @@
 | ------- |
 | [1833-maximum-ice-cream-bars](https://github.com/rajvignesh037-debug/Leetcode/tree/master/1833-maximum-ice-cream-bars) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/rajvignesh037-debug/Leetcode/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
+| [1927-sum-game](https://github.com/rajvignesh037-debug/Leetcode/tree/master/1927-sum-game) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/rajvignesh037-debug/Leetcode/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 ## Math
 |  |
@@ -328,6 +330,7 @@
 | [0539-minimum-time-difference](https://github.com/rajvignesh037-debug/Leetcode/tree/master/0539-minimum-time-difference) |
 | [0877-stone-game](https://github.com/rajvignesh037-debug/Leetcode/tree/master/0877-stone-game) |
 | [1344-angle-between-hands-of-a-clock](https://github.com/rajvignesh037-debug/Leetcode/tree/master/1344-angle-between-hands-of-a-clock) |
+| [1927-sum-game](https://github.com/rajvignesh037-debug/Leetcode/tree/master/1927-sum-game) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/rajvignesh037-debug/Leetcode/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/rajvignesh037-debug/Leetcode/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/rajvignesh037-debug/Leetcode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
@@ -402,6 +405,7 @@
 |  |
 | ------- |
 | [0877-stone-game](https://github.com/rajvignesh037-debug/Leetcode/tree/master/0877-stone-game) |
+| [1927-sum-game](https://github.com/rajvignesh037-debug/Leetcode/tree/master/1927-sum-game) |
 ## Zero-Sum Game
 |  |
 | ------- |
